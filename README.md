@@ -1,1 +1,1 @@
-# prak2
+# practos2 dependency_visualizer
